@@ -1,0 +1,111 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+/*Header*/
+.logo-h{
+    width: 20%;
+    height: 6vh;
+    margin-left:70px ;
+}
+.search{
+    width: 20%;
+    height: 6vh;
+    border-radius: 18px;
+    border-style: none;
+    padding-left: 4px;
+    margin-left:250px ;
+}
+.divider-hd{
+    width: 100%;
+    height: 1px;
+    background-color: gray;
+    display: inline-block;
+}
+/* LEFT */
+.my-bowl{
+    margin-top: 28px;
+}
+.explore-btn{
+    width: 52%;
+    height: 5vh;
+    margin-top: 42px;
+}
+/* CENTER */
+.bowl-search{
+    width: 80%;
+    height: 6vh;
+    padding-left: 6px;
+}
+.bowl-list{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.lap-img{
+    width: 12%;
+    height: 10vh;
+}
+.lap-dis{
+    display: flex;
+}
+.tech-h6{
+    margin-top: 10px;
+}
+.team-l{
+    margin-left: 66px;
+    margin-top: -40px;
+}
+
+.d-para{
+    margin-top: -40px;
+    margin-left: 500px;
+}
+.para{
+    font-size: smaller;
+
+}
+.bowl-icon{
+    display: flex;
+    margin-top: 12px;
+    margin-bottom: 12px; 
+}
+.icon-p{
+    padding-right: 160px;
+}
+/*RIGHT EXPLORE */
+.emp-right-i{
+    width: 26%;
+    height: 10vh;
+}
+.explore-right{
+    color: rgb(74, 74, 246);
+}
+
+.consulting-right{
+    margin-top: 10px;
+    display: flex;
+}
+.consult-p{
+    margin-top: -50px;
+    margin-left: 78px;
+}
+.view{
+    display: flex;
+}
+.view-p{
+    margin-left: 80px;
+}
+.join-btn{
+    width: 20%;
+    height: 4vh;
+    border-radius: 4px;
+    margin-left: 110px;
+}
+/* DOWN RIGHT */
+.down-card-r{
+    margin: 20px;
+}
+.p-style a{
+    text-decoration: none;
+    color: black;
+}
